@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name" "[Studio FCS] Black Mesa: French Facility | Site 05"
+	"author_name" "Studio FCS [Jo57430]"
+	"info" "{ 	
+		"description": "Map Pack StudioFCS", 	
+		"type": "map", 	
+		"tags": [ "roleplay", "realism" ],
+	}"
+}
